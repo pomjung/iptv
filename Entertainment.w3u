@@ -1,0 +1,60 @@
+{
+		"name": "Entertainment",
+		"author": "@joker wise play thailand",
+		"image":"https://media.giphy.com/media/374pcIBVEGb6g/giphy.gif",
+		"url": "",
+		
+
+		"stations":[
+{"name": " ",  "image": "https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",  "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8","playInNatPlayer": "true"},
+{name:"",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",url:"https://www.we-play.tv/watching/tv/hbo-hd",referer:""},
+{name:"",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",url:"http://136.243.177.164/HBO/playlist.m3u8","playInNatPlayer": "true"},
+{name:"",image:"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",url:"https://www.we-play.tv/watching/tv/hbo-hits",referer:""},
+
+{name:"",image:"https://www.234.in.th/images/2020/12/09/130720638_2763436790593699_8747847483222256620_n.png",url:"https://www.we-play.tv/watching/tv/hbo-signature",referer:""},
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jf6ylZ.png",url:"https://www.we-play.tv/watching/tv/hbo-family",referer:""},
+
+{name:"",image:"https://www.img.in.th/images/c3e090a28260224a51adc0e57ae20eeb.png",url:"https://www.we-play.tv/watching/tv/cinemax",referer:""},
+
+{name:"",image:"https://www.img.in.th/images/673c7787d8e6cb2e99c2cab922ebb2fb.png",url:"https://www.we-play.tv/watching/tv/red-by-hbo",referer:""},
+
+{name:"",image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",url:"https://player.we-play.tv/channel.php?name=foxth&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/1e9890e61e1752825ccd1859ab96874d.png",url:"https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/55063389dc61300caf37b38d93f1289f.png",url:"https://www.we-play.tv/watching/tv/hits-weplay",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/6beb014500a6fc1877f4ebd239eee6e3.png",url:"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/4e2d514d8d86287ea4eaf5db8e592bd3.png",url:"https://player.we-play.tv/channel.php?name=warner&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",url:"https://player.we-play.tv/channel.php?name=axn&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/da7da27f12fa68a3541c51683239718c.png",url:"https://player.we-play.tv/channel.php?name=hits&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{"name": "",  "image": "https://sv1.picz.in.th/images/2020/11/18/bp7MqD.png",  "url": "https://tv.trueid.net/embed/ch8?autoplay=yes&nopageview=yes","playInNatPlayer": "true"},
+{name:"",image:"https://www.img.in.th/images/e6f7ece47df84ef0c165362a516c8391.png",url:"https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/2095e83da1a7db6b3748e5d5ad17f490.png",url:"https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/760bac3b0e384ddc8f387a8ebe92d5cb.png",url:"https://player.we-play.tv/channel.php?name=truefilmhd2&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfpcnS.png",url:"https://player.we-play.tv/channel.php?name=ccm&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/add8d6711e39a978985d5e8bd1462123.png",url:"https://player.we-play.tv/channel.php?name=scm&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/2690d31c2f9b6e19cdff43560191682e.png",url:"https://player.we-play.tv/channel.php?name=kbs&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",url:"https://player.we-play.tv/channel.php?name=tvn&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/9f964cad892e59abadce0d68677d3f1f.png",url:"https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"data:image/png;base64,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",url:"http://203.154.243.89:1423",referer:""},
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0165.png",url:"https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0166.png",url:"https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",url:"https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/59fde5cf7c8a31277475963dcd1f84ff.png",url:"https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",url:"https://player.we-play.tv/channel.php?name=foodnetwork&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",url:"https://player.we-play.tv/channel.php?name=afn&cate=documentary",referer:"https://player.we-play.tv"},
+
+{"name": "",  "image": "https://www.img.in.th/images/a39b27884f11a3dc4be5ac7a26d2914f.png",  "url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://www.234.in.th/images/2020/12/09/127765028_1919146624891508_722155216847822280_n.png",  "url": "http://ip2121.com:8081/live/TVB/playlist.m3u8","playInNatPlayer": "true"}
+]
+} 
