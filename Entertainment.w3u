@@ -7,6 +7,7 @@
 
 		"stations":[
 {"name": " ",  "image": "https://positioningmag.com/wp-content/uploads/2019/09/m16.jpg",  "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8","playInNatPlayer": "true"},		
+{name:"",image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",url:"https://player.we-play.tv/channel.php?name=axn&cate=entertainment",referer:"https://player.we-play.tv"},
 {"name": " ",  "image": "https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",  "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8","playInNatPlayer": "true"},
 {name:"",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",url:"https://www.we-play.tv/watching/tv/hbo-hd",referer:""},
 {name:"",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",url:"http://136.243.177.164/HBO/playlist.m3u8","playInNatPlayer": "true"},
@@ -28,7 +29,6 @@
 {name:"",image:"https://www.img.in.th/images/6beb014500a6fc1877f4ebd239eee6e3.png",url:"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",referer:"https://player.we-play.tv"},
 {name:"",image:"https://www.img.in.th/images/4e2d514d8d86287ea4eaf5db8e592bd3.png",url:"https://player.we-play.tv/channel.php?name=warner&cate=entertainment",referer:"https://player.we-play.tv"},
 
-{name:"",image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",url:"https://player.we-play.tv/channel.php?name=axn&cate=entertainment",referer:"https://player.we-play.tv"},
 {name:"",image:"https://www.img.in.th/images/da7da27f12fa68a3541c51683239718c.png",url:"https://player.we-play.tv/channel.php?name=hits&cate=entertainment",referer:"https://player.we-play.tv"},
 {name:"Be-In 1",image:"https://www.we-play.tv//uploads/posters/-poster1602704680.jpeg",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-1","referer": "https://www.we-play.tv/" },
 {"name": "",  "image": "https://sv1.picz.in.th/images/2020/11/18/bp7MqD.png",  "url": "https://tv.trueid.net/embed/ch8?autoplay=yes&nopageview=yes","playInNatPlayer": "true"},
